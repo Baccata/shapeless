@@ -17,9 +17,6 @@ target/
 *.iml
 *.iws
 
-# Ignore project files foor Sublime
-*.sublime-project
-
 # Ignore OS X metadata
 .DS_Store
 
@@ -28,4 +25,3 @@ target/
 .*.swp
 .swo
 .*.swo
-
